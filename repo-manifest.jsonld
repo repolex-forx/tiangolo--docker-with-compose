@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/docker-with-compose/commit/f15906670bc3b50446201b3391218a830156269e",
       "git:hexsha": "f15906670bc3b50446201b3391218a830156269e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
